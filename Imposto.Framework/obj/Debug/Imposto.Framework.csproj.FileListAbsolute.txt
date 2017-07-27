@@ -1,0 +1,6 @@
+C:\Desenvolvimento\TesteImposto\Imposto.Framework\obj\Debug\Imposto.Framework.csprojResolveAssemblyReference.cache
+C:\Desenvolvimento\TesteImposto\Imposto.Framework\bin\Debug\Imposto.Framework.dll.config
+C:\Desenvolvimento\TesteImposto\Imposto.Framework\bin\Debug\Imposto.Framework.dll
+C:\Desenvolvimento\TesteImposto\Imposto.Framework\bin\Debug\Imposto.Framework.pdb
+C:\Desenvolvimento\TesteImposto\Imposto.Framework\obj\Debug\Imposto.Framework.dll
+C:\Desenvolvimento\TesteImposto\Imposto.Framework\obj\Debug\Imposto.Framework.pdb
